@@ -101,7 +101,7 @@ Apply your knowledge to real-world datasets and challenges.
 If you have any suggestions, questions, or feedback, feel free to open an issue or create a pull request. Let’s collaborate and learn together! 🚀
 
 ## 👨‍💻 Author
-Evgenii Matveev
-Data Analyst | Python Enthusiast
-GitHub: evgeniimatveev
+- Evgenii Matveev
+- Data Analyst | Python Enthusiast
+- GitHub: evgeniimatveev
 
