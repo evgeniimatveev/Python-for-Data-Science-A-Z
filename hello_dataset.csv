@@ -1,0 +1,5 @@
+dataset_name,rows,columns,topic
+"basketball_stats",120,8,"Sports statistics example"
+"demographic_data",500,12,"Population & demographics"
+"movie_ratings",1000,6,"Movies, ratings and genres"
+"sales_sample",50,5,"Simple sales data for practice"
