@@ -1,0 +1,15 @@
+# --- GitHub Linguist: Python + Jupyter for Data Science ---
+
+# Python scripts
+*.py linguist-detectable=true linguist-language=Python
+
+# Jupyter notebooks
+*.ipynb linguist-detectable=true linguist-language=Jupyter\ Notebook
+
+# Не считать данные языком программирования
+*.csv     linguist-detectable=false
+*.tsv     linguist-detectable=false
+*.xls     linguist-detectable=false
+*.xlsx    linguist-detectable=false
+*.parquet linguist-detectable=false
+*.json    linguist-detectable=false
