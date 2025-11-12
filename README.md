@@ -1,7 +1,35 @@
-# **Python for Data Science A-Z 🐍**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-A--Z-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python for Data Science A-Z"/>
+</p>
 
-🎉 **Welcome to the Python for Data Science A-Z repository!**  
-This repository contains a collection of **Jupyter notebooks** and **resources** to help you master Python for data analysis, visualization, and real-world projects.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+<h1 align="center">🐍 Python for Data Science A-Z 📊</h1>
+
+<p align="center">
+  Master <strong>Python</strong>, <strong>NumPy</strong>, <strong>Pandas</strong>, <strong>Matplotlib</strong>, 
+  and real-world <strong>Data Science</strong> workflows — all in one place.
+</p>
+
+---
+
+# 🎉 Welcome!
+
+This repository contains a complete learning path for **Python for Data Science**, including  
+🧠 Python basics  
+📊 DataFrames with Pandas  
+📈 Data Visualization  
+🧮 NumPy arrays  
+🛠 Real-world analytical projects  
+
+Everything is structured in clean sections with Jupyter notebooks and practical datasets.
 
 ---
 
