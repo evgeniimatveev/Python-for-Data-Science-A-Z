@@ -1,7 +1,7 @@
 # Python + Jupyter
 *.py    linguist-detectable=true linguist-language=Python
-.ipynb linguist-detectable=true linguist-language=Jupyter\ Notebook
-*.csv  linguist-detectable=true linguist-language=CSV
+*.ipynb linguist-detectable=true linguist-language=Jupyter\ Notebook
+*.csv     linguist-detectable=false
 
 *.tsv     linguist-detectable=false
 *.xls     linguist-detectable=false

@@ -1,0 +1,8 @@
+# Everything the notebooks import (standard-library modules excluded)
+jupyterlab
+numpy
+pandas
+matplotlib
+seaborn
+requests   # 02-python-fundamentals/03-packages.ipynb (HTTP example)
+scrapy     # 02-python-fundamentals/03-packages.ipynb (the "install a package" example)

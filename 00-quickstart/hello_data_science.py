@@ -4,6 +4,12 @@ Quick overview script for the Python-for-Data-Science-A-Z repository.
 It prints the main sections of the course and the key topics for each.
 """
 
+import sys
+
+# Emoji in the output: make sure Windows consoles (cp1252) can print them.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
 sections = [
     ("Section 1 – Python Basics", "Variables, loops, conditionals, core syntax"),
     ("Section 2 – Python Fundamentals", "Lists, tuples, slicing, packages"),
