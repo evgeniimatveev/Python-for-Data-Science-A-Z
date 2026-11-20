@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Python for Data Science A-Z banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14122b"/>
+      <stop offset="0.6" stop-color="#2a2f6b"/>
+      <stop offset="1" stop-color="#3776AB"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#FFD43B" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#FFD43B" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+  <!-- decorative chart: bars + trend line + scatter dots -->
+  <g transform="translate(910 52)">
+    <rect x="0"   y="130" width="36" height="90"  rx="5" fill="url(#bar)"/>
+    <rect x="48"  y="95"  width="36" height="125" rx="5" fill="url(#bar)"/>
+    <rect x="96"  y="110" width="36" height="110" rx="5" fill="url(#bar)"/>
+    <rect x="144" y="60"  width="36" height="160" rx="5" fill="url(#bar)"/>
+    <rect x="192" y="35"  width="36" height="185" rx="5" fill="url(#bar)"/>
+    <rect x="240" y="20"  width="36" height="200" rx="5" fill="url(#bar)"/>
+    <path d="M18 120 L66 88 L114 100 L162 52 L210 30 L258 14" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+    <g fill="#ffffff" opacity="0.95">
+      <circle cx="18" cy="120" r="5"/><circle cx="66" cy="88" r="5"/><circle cx="114" cy="100" r="5"/>
+      <circle cx="162" cy="52" r="5"/><circle cx="210" cy="30" r="5"/><circle cx="258" cy="14" r="5"/>
+    </g>
+    <line x1="-10" y1="222" x2="296" y2="222" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
+  </g>
+  <!-- title -->
+  <text x="64" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#FFD43B" letter-spacing="6">LEARN BY DOING</text>
+  <text x="62" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="800" fill="#ffffff">Python for Data Science A–Z</text>
+  <text x="64" y="258" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#dbe9ff">Python  ·  NumPy  ·  pandas  ·  Matplotlib  ·  Seaborn</text>
+</svg>
